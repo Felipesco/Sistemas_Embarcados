@@ -1,2 +1,2 @@
-# Sistemas_Embarcados
-Repositório para as aulas de Sistemas Embarcados. #arduino
+<h1> Sistemas Embarcados </h1>
+Repositório para as aulas de Sistemas Embarcados.
