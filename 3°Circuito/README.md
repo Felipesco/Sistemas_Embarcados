@@ -2,4 +2,4 @@
 
 <h4>Tinkercad: </h4>
 
-![t725](https://user-images.githubusercontent.com/72233926/159557166-f536ebd2-bc94-40a3-8ad6-72c7b71a48c4.png)
+![t725](https://user-images.githubusercontent.com/72233926/159557742-48c33d39-cfa6-47d8-9ec3-cdc89c24d29e.png)
